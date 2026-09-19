@@ -74,4 +74,4 @@ To run the notebooks, you need:
 
 ## Author
 
-- **Omar** — GitHub: [@Omar20400](https://github.com/Omar20400)
+- **Omar** — GitHub: [@omar-hamouda1](https://github.com/omar-hamouda1)
